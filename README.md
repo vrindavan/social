@@ -1,2 +1,1 @@
-# social
-ReactJS, Node.js, MySQL based Social Network.
+## ReactJS, Node.js, MySQL based Social Network. WIP
